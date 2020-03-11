@@ -1,0 +1,9 @@
+dist/
+build/
+
+*.egg_info
+__init__.py
+
+Pipfile
+Pipfile.lock
+
