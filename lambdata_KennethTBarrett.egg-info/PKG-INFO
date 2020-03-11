@@ -20,13 +20,15 @@ Description: # lambdata
         
         ```
         
-        ```sh
-        cd path/to/lambdata
-        ```
         
         Install Package Dependencies:
         ```sh
         pipenv install
+        ```
+        
+        Required Libraries:
+        ```sh
+        requirements.txt
         ```
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
