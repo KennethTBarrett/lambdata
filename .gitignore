@@ -1,9 +1,0 @@
-dist/
-build/
-
-*.egg-info
-__init__.py
-
-Pipfile
-Pipfile.lock
-
