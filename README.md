@@ -12,11 +12,13 @@ time_splitter(df, 'Column') # Split times from column in df 'Column', make new c
 
 ```
 
-```sh
-cd path/to/lambdata
-```
 
 Install Package Dependencies:
 ```sh
 pipenv install
+```
+
+Required Libraries:
+```sh
+requirements.txt
 ```
