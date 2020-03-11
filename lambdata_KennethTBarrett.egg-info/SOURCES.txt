@@ -1,6 +1,0 @@
-README.md
-setup.py
-lambdata_KennethTBarrett.egg-info/PKG-INFO
-lambdata_KennethTBarrett.egg-info/SOURCES.txt
-lambdata_KennethTBarrett.egg-info/dependency_links.txt
-lambdata_KennethTBarrett.egg-info/top_level.txt
