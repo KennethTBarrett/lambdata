@@ -1,5 +1,10 @@
 # lambdata
 
+## Pip Install
+```py
+pip install -i https://test.pypi.org/simple/ lambdata-KennethTBarrett
+```
+
 ## Installation
 ```sh
 cd path/to/lambdata
