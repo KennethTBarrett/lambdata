@@ -1,3 +1,7 @@
 build/
 dist/
 *.egg-info
+Pipfile
+Pipfile.lock
+__init__.py
+.vscode
