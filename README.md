@@ -1,5 +1,9 @@
 # lambdata
 
+This package is for Lambda School (DS12) Unit 3: Data Engineering - Sprint 1: Software Engineering and Reproducible Research.
+
+The goal of this sprint is to demonstrate mastery in things such as modules, packages, environments, containers, testing, and more.
+
 ## Pip Install
 ```py
 pip install -i https://test.pypi.org/simple/ lambdata-KennethTBarrett
